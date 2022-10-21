@@ -1,5 +1,5 @@
 {% set name = "gflanguages" %}
-{% set version = "0.4.0" %}
+{% set version = "0.4.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/gflanguages-{{ version }}.tar.gz
-  sha256: c1ef3c27b741fcf5064ebbf4e3d9ef2bef037e9ec620c9a9d0aa5c3add2124bf
+  sha256: 2fc02ad755a42f5ea30456cbae7f166e34751ddb8be62881195e04e405fa464b
 
 build:
   noarch: python
