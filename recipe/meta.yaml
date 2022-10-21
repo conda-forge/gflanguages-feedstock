@@ -20,7 +20,7 @@ requirements:
     - python >=3.7
     - setuptools-scm >=4,<6.1
   run:
-    - protobuf
+    - protobuf =3.19.4
     - python >=3.7
 
 test:
