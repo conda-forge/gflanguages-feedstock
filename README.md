@@ -1,11 +1,11 @@
-About gflanguages
-=================
+About gflanguages-feedstock
+===========================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/gflanguages-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/googlefonts/gflanguages/
 
 Package license: Apache-2.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/gflanguages-feedstock/blob/main/LICENSE.txt)
 
 Summary: A python API for evaluating language support in the Google Fonts collection.
 
